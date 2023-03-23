@@ -1,0 +1,70 @@
+.cart {
+    
+}
+.order-summay {
+    text-align: center;
+    font-size: 25px;
+    color: #1C2B35;
+}
+.order-summay-details{
+   padding-left: 20px;
+   font-size: 18px;
+   color: #1C2B35;
+   padding-top: 17px;
+
+}
+.grand-total{
+    font-size: 21px;
+}
+.btn-order {
+    text-align: center;
+    justify-content: center;
+    padding-top: 17px;
+    
+}
+
+.btn-order small{
+    font-size: 17px;
+    margin-right: 10px;
+}
+
+
+.btn-order a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.btn-clear-cart{
+    width: 232px;
+    height: 48px;
+    background: #FF3030;
+    border-radius: 4px;
+    color: #FFFFFF;
+    font-weight: 400;
+    line-height: 20px;
+    border: none;
+    transition: 0.45s;
+    font-size: 17px;
+}
+.btn-clear-cart:hover{
+    cursor: pointer;
+    background: #1C2B35;
+}
+
+.btn-review-order{
+    width: 232px;
+    height: 48px;
+    background: #FF9900;
+    border-radius: 4px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    border: none;
+    transition: 0.45s;
+
+}
+.btn-review-order:hover{
+    cursor: pointer;
+    background: #1C2B35;
+}

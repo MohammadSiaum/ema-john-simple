@@ -1,0 +1,29 @@
+
+.error-container{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    margin-top: 200px;
+
+    
+}
+.error-container-wrap{
+    display: inline-flex;
+    text-align: center;
+    align-items: center;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 62px;
+    line-height: 74px;
+    color: #2A414F;
+    
+
+}
+
+.line {
+    width: 57px;
+    height: 0px;
+    left: 511px;
+    border: 4px solid #FF9900;
+    transform: rotate(90deg);
+}

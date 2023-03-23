@@ -1,0 +1,98 @@
+.order-cart-container{
+    position: sticky;
+    top: 50px;
+}
+.order-cart {
+    background-color: #FFE0B3;
+    width: 451px;
+    height: 630px;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.order-cart-summary {
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+}
+
+.order-cart-summary-details {
+    margin-left: 64px;
+}
+
+.order-cart-summary-details p {
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 32px;
+    letter-spacing: 0.0015em;
+    color: #2A414F;
+
+}
+
+.order-cart-summary-details h3 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    color: #0E161A;
+
+}
+
+.btn-order-cart {
+    text-align: center;
+    padding-top: 17px;
+
+}
+
+.btn-order-cart small {
+    font-size: 19px;
+    margin-right: 20px;
+    margin-left: 8px;
+    width: 345px;
+    display:inline-block;
+    
+}
+.btn-text{
+    
+}
+
+.btn-clear-order-cart {
+    width: 421px;
+    height: 56px;
+    background: #FF3030;
+    border-radius: 4px;
+    color: #FFFFFF;
+    font-weight: 400;
+    line-height: 20px;
+    border: none;
+    transition: 0.45s;
+    font-size: 17px;
+    text-align: left;
+    
+}
+
+.btn-clear-order-cart:hover {
+    cursor: pointer;
+    background: #1C2B35;
+}
+
+.btn-review-order-cart {
+    width: 421px;
+    height: 56px;
+    background: #FF9900;
+    border-radius: 4px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    border: none;
+    transition: 0.45s;
+    text-align: left;
+
+}
+
+.btn-review-order-cart:hover {
+    cursor: pointer;
+    background: #1C2B35;
+}
